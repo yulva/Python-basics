@@ -1,0 +1,9 @@
+Abramovich: 34000
+Averintsev: 73000
+Avramenko: 19000
+Adams: 52000
+Ackerman: 15000
+Zaitsev: 17000
+Zvyagintsev: 32000
+Zubkov: 23000
+Zykina: 78000
